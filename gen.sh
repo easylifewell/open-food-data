@@ -7,5 +7,5 @@ mkdir -p output/xianguo
 
 while read line
 do
-	./main  $line   > output/$line.json
+	./main  $line   > output/xianguo/$line.json
 done < xianguo_list.txt
