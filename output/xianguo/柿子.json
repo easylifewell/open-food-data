@@ -1,0 +1,60 @@
+{
+	"name": "柿子",
+	"jieshao": {
+		"title": "柿子的",
+		"content": ""
+	},
+	"foodvalue": {
+		"title": "柿子的营养成分(营养素含量/每100克)",
+		"data": [
+			{
+				"name": "营养素",
+				"value": "含量(每100克)"
+			},
+			{
+				"name": "热量(大卡)",
+				"value": "71.00"
+			},
+			{
+				"name": "碳水化合物(克)",
+				"value": "10.80"
+			},
+			{
+				"name": "脂肪(克)",
+				"value": "0.10"
+			},
+			{
+				"name": "蛋白质(克)",
+				"value": "0.70"
+			},
+			{
+				"name": "纤维素(克)",
+				"value": "3.10"
+			},
+			{
+				"name": "",
+				"value": ""
+			},
+			{
+				"name": "",
+				"value": ""
+			}
+		]
+	},
+	"gongxiao": {
+		"title": "柿子的",
+		"content": ""
+	},
+	"yingyangjiazhi": {
+		"title": "柿子的",
+		"content": ""
+	},
+	"shiyongxiaoguo": {
+		"title": "柿子的",
+		"content": ""
+	},
+	"shiyongrenqun": {
+		"title": "柿子的",
+		"content": ""
+	}
+}
