@@ -1,0 +1,31 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "OfHbisNes0gI+S16gYBreh7Riv8=",
+			"path": "github.com/PuerkitoBio/goquery",
+			"revision": "152b1a2c8f5d0340f658bb656032a39b94e52958",
+			"revisionTime": "2016-08-31T16:22:11Z"
+		},
+		{
+			"checksumSHA1": "oLYnEHr1dTmo+QYudDHJJWNZ0a4=",
+			"path": "github.com/andybalholm/cascadia",
+			"revision": "1c31af6f6c1a7b101ed05aacc7d8a738b43ae86e",
+			"revisionTime": "2016-08-31T15:30:56Z"
+		},
+		{
+			"checksumSHA1": "vqc3a+oTUGX8PmD0TS+qQ7gmN8I=",
+			"path": "golang.org/x/net/html",
+			"revision": "cfe3c2a7525b50c3d707256e371c90938cfef98a",
+			"revisionTime": "2016-09-03T02:20:35Z"
+		},
+		{
+			"checksumSHA1": "00eQaGynDYrv3tL+C7l9xH0IDZg=",
+			"path": "golang.org/x/net/html/atom",
+			"revision": "cfe3c2a7525b50c3d707256e371c90938cfef98a",
+			"revisionTime": "2016-09-03T02:20:35Z"
+		}
+	],
+	"rootPath": "github.com/easylifewell/open-food-data"
+}
