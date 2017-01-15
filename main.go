@@ -71,7 +71,9 @@ func GetFoodData(foodName string, cat string) FoodData {
 	// Find the title
 	res.Title = doc.Find("div.bkmcot").Find("h3").Text()
 	// Find the content
-	res.Content = doc.Find("div.bkmcot").Find("p").Text()
+	doc.Find("div.bkmcot").Find("p").Each(func(i int, s *goquery.Selection) {
+		res.Content += s.Text() + "\n"
+	})
 
 	return res
 }
