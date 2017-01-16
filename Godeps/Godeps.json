@@ -1,0 +1,5 @@
+{
+	"ImportPath": "github.com/easylifewell/open-food-data",
+	"GoVersion": "go1.7",
+	"Deps": []
+}
