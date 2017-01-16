@@ -1,0 +1,27 @@
+{
+	"name": "酸笋",
+	"jieshao": {
+		"title": "酸笋的介绍",
+		"content": "酸笋是南雄传统的调味佳品，菜肴中加入少量的酸笋，其味浓郁绵长。酷暑天，剩菜中加入少许笋汁，剩菜虽过了夜而无馊味。"
+	},
+	"foodvalue": {
+		"title": "酸笋的",
+		"data": null
+	},
+	"gongxiao": {
+		"title": "酸笋的功效",
+		"content": "酸笋含脂肪、淀粉很少，属天然低脂、低热量食品，是肥胖者减肥的佳品。"
+	},
+	"yingyangjiazhi": {
+		"title": "酸笋的营养价值",
+		"content": "酸笋含丰富的纤维素，能促进肠蠕动，从而缩短胆固醇、脂肪等物质在体内的停留时间。"
+	},
+	"shiyongxiaoguo": {
+		"title": "酸笋的",
+		"content": ""
+	},
+	"shiyongrenqun": {
+		"title": "酸笋的",
+		"content": ""
+	}
+}

@@ -1,0 +1,60 @@
+{
+	"name": "海鲜酱",
+	"jieshao": {
+		"title": "海鲜酱的介绍",
+		"content": "海鲜酱，是一种富有特色的调味品。"
+	},
+	"foodvalue": {
+		"title": "海鲜酱的营养成分(营养素含量/每100克)",
+		"data": [
+			{
+				"name": "营养素",
+				"value": "含量(每100克)"
+			},
+			{
+				"name": "热量(大卡)",
+				"value": "221.00"
+			},
+			{
+				"name": "碳水化合物(克)",
+				"value": "37.20"
+			},
+			{
+				"name": "脂肪(克)",
+				"value": "5.40"
+			},
+			{
+				"name": "蛋白质(克)",
+				"value": "1.70"
+			},
+			{
+				"name": "纤维素(克)",
+				"value": "10.40"
+			},
+			{
+				"name": "",
+				"value": ""
+			},
+			{
+				"name": "",
+				"value": ""
+			}
+		]
+	},
+	"gongxiao": {
+		"title": "海鲜酱的",
+		"content": ""
+	},
+	"yingyangjiazhi": {
+		"title": "海鲜酱的",
+		"content": ""
+	},
+	"shiyongxiaoguo": {
+		"title": "海鲜酱的",
+		"content": ""
+	},
+	"shiyongrenqun": {
+		"title": "海鲜酱的",
+		"content": ""
+	}
+}

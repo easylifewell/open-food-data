@@ -2,10 +2,10 @@
 
 set -x
 
-rm -fr output/xianguo
-mkdir -p output/xianguo
+rm -fr output/detail
+mkdir -p output/detail
 
 while read line
 do
-	./main  $line   > output/xianguo/$line.json
-done < xianguo_list.txt
+	./food  get $line   > output/detail/$line.json
+done < output/catagory/shicai_list.txt

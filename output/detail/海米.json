@@ -1,0 +1,60 @@
+{
+	"name": "海米",
+	"jieshao": {
+		"title": "海米的介绍",
+		"content": "虾米又名海米、金钩、开洋。是用鹰爪虾、脊尾白虾、羊毛虾和周氏新对虾等加工的熟干品。虾米是著名的海味品，有较高的营养价值。"
+	},
+	"foodvalue": {
+		"title": "海米的营养成分(营养素含量/每100克)",
+		"data": [
+			{
+				"name": "营养素",
+				"value": "含量(每100克)"
+			},
+			{
+				"name": "热量(大卡)",
+				"value": "195.00"
+			},
+			{
+				"name": "碳水化合物(克)",
+				"value": "0.00"
+			},
+			{
+				"name": "脂肪(克)",
+				"value": "0.00"
+			},
+			{
+				"name": "蛋白质(克)",
+				"value": "47.60"
+			},
+			{
+				"name": "纤维素(克)",
+				"value": "0.00"
+			},
+			{
+				"name": "",
+				"value": ""
+			},
+			{
+				"name": "",
+				"value": ""
+			}
+		]
+	},
+	"gongxiao": {
+		"title": "海米的",
+		"content": ""
+	},
+	"yingyangjiazhi": {
+		"title": "海米的",
+		"content": ""
+	},
+	"shiyongxiaoguo": {
+		"title": "海米的使用效果",
+		"content": "虾米味甘、咸、性温；具有补肾壮阳、理气开胃之功效。"
+	},
+	"shiyongrenqun": {
+		"title": "海米的",
+		"content": ""
+	}
+}

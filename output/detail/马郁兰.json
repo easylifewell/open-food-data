@@ -1,0 +1,44 @@
+{
+	"name": "马郁兰",
+	"jieshao": {
+		"title": "马郁兰的介绍",
+		"content": "马郁兰原产地是在地中海，后来希腊人和罗马人将这种植物视为幸福的象征。在烹饪方面，马郁兰是一种调味料，常被用来调配混合型调味剂，如普罗旺斯香草（Herbes de Provence）和Za'atar中。虽然马郁兰对寒冷较敏感，不过仍可以在耐寒性第5类的地区生长。马郁兰含具有芳香气味的百里香酚和香荆芥酚，可促进消化、消胀和环节痉挛。"
+	},
+	"foodvalue": {
+		"title": "马郁兰的营养成分(营养素含量/每100克)",
+		"data": [
+			{
+				"name": "营养素",
+				"value": "含量(每100克)"
+			},
+			{
+				"name": "能量",
+				"value": "53kal"
+			},
+			{
+				"name": "",
+				"value": ""
+			},
+			{
+				"name": "",
+				"value": ""
+			}
+		]
+	},
+	"gongxiao": {
+		"title": "马郁兰的功效",
+		"content": "强身、利尿、镇定痉挛，缓和食欲不振、肝炎、失眠、坐骨神经痛、头痛。"
+	},
+	"yingyangjiazhi": {
+		"title": "马郁兰的",
+		"content": ""
+	},
+	"shiyongxiaoguo": {
+		"title": "马郁兰的",
+		"content": ""
+	},
+	"shiyongrenqun": {
+		"title": "马郁兰的",
+		"content": ""
+	}
+}

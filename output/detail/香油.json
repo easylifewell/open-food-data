@@ -1,0 +1,60 @@
+{
+	"name": "香油",
+	"jieshao": {
+		"title": "香油的",
+		"content": ""
+	},
+	"foodvalue": {
+		"title": "香油的营养成分(营养素含量/每100克)",
+		"data": [
+			{
+				"name": "营养素",
+				"value": "含量(每100克)"
+			},
+			{
+				"name": "热量(大卡)",
+				"value": "898.00"
+			},
+			{
+				"name": "碳水化合物(克)",
+				"value": "0.20"
+			},
+			{
+				"name": "脂肪(克)",
+				"value": "99.70"
+			},
+			{
+				"name": "蛋白质(克)",
+				"value": "一"
+			},
+			{
+				"name": "纤维素(克)",
+				"value": "一"
+			},
+			{
+				"name": "",
+				"value": ""
+			},
+			{
+				"name": "",
+				"value": ""
+			}
+		]
+	},
+	"gongxiao": {
+		"title": "香油的",
+		"content": ""
+	},
+	"yingyangjiazhi": {
+		"title": "香油的",
+		"content": ""
+	},
+	"shiyongxiaoguo": {
+		"title": "香油的",
+		"content": ""
+	},
+	"shiyongrenqun": {
+		"title": "香油的",
+		"content": ""
+	}
+}

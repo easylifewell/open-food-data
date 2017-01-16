@@ -1,0 +1,60 @@
+{
+	"name": "蚝油",
+	"jieshao": {
+		"title": "蚝油的",
+		"content": ""
+	},
+	"foodvalue": {
+		"title": "蚝油的营养成分(营养素含量/每100克)",
+		"data": [
+			{
+				"name": "营养素",
+				"value": "含量(每100克)"
+			},
+			{
+				"name": "热量(大卡)",
+				"value": "114.00"
+			},
+			{
+				"name": "碳水化合物(克)",
+				"value": "21.00"
+			},
+			{
+				"name": "脂肪(克)",
+				"value": "1.00"
+			},
+			{
+				"name": "蛋白质(克)",
+				"value": "2.80"
+			},
+			{
+				"name": "纤维素(克)",
+				"value": "0.60"
+			},
+			{
+				"name": "",
+				"value": ""
+			},
+			{
+				"name": "",
+				"value": ""
+			}
+		]
+	},
+	"gongxiao": {
+		"title": "蚝油的",
+		"content": ""
+	},
+	"yingyangjiazhi": {
+		"title": "蚝油的",
+		"content": ""
+	},
+	"shiyongxiaoguo": {
+		"title": "蚝油的",
+		"content": ""
+	},
+	"shiyongrenqun": {
+		"title": "蚝油的",
+		"content": ""
+	}
+}
