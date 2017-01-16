@@ -1,5 +1,25 @@
 {
 	"ImportPath": "github.com/easylifewell/open-food-data",
 	"GoVersion": "go1.7",
-	"Deps": []
+	"Deps": [
+		{
+			"ImportPath": "github.com/Sirupsen/logrus",
+			"Comment": "v0.10.0-38-g3ec0642",
+			"Rev": "3ec0642a7fb6488f65b06f9040adc67e3990296a"
+		},
+		{
+			"ImportPath": "github.com/l2x/golang-chinese-to-pinyin",
+			"Rev": "eb503f0adfb7af3d9fa7a396805c960bc5061ee5"
+		},
+		{
+			"ImportPath": "github.com/qiniu/iconv",
+			"Comment": "v1.1.00-34-ge9ee0dd",
+			"Rev": "e9ee0ddd1a3a29262740aa08ed8ac740f23bc4a0"
+		},
+		{
+			"ImportPath": "github.com/urfave/cli",
+			"Comment": "v1.18.0-58-gc723b19",
+			"Rev": "c723b19a84af34d905773672ffa1b8ead802e505"
+		}
+	]
 }

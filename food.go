@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"log"
 	"os"
+	"strings"
 
 	"github.com/PuerkitoBio/goquery"
 	"github.com/urfave/cli"
@@ -19,7 +20,7 @@ var getFoodDataCommand = cli.Command{
 		}
 
 		var food Food
-		foodName := context.Args()[1]
+		foodName := context.Args()[0]
 		food.Name = foodName
 		food.Jieshao = GetFoodData(foodName, "jieshao")
 		food.Gongxiao = GetFoodData(foodName, "gongxiao")
@@ -96,12 +97,15 @@ func GetFoodData(foodName string, cat string) FoodData {
 		log.Fatal(err)
 	}
 
+	var des []string
 	// Find the title
 	res.Title = doc.Find("div.bkmcot").Find("h3").Text()
 	// Find the content
 	doc.Find("div.bkmcot").Find("p").Each(func(i int, s *goquery.Selection) {
-		res.Content += s.Text() + "\n"
+		des = append(des, s.Text())
 	})
+
+	res.Content = strings.Join(des, "\n")
 
 	return res
 }
